@@ -6,4 +6,4 @@ _slideAnimationController._delegate = self;
 ```
 
 Callback:
-`- (void)animationExpandedCallback:(BOOL)expanded
+`- (void)animationExpandedCallback:(BOOL)expanded`
